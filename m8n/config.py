@@ -1,4 +1,4 @@
-# Created By @Its_romeoo
+# Created By @Krishna_rai_24
 # Copyright By M8N
 
 from os import getenv
@@ -25,8 +25,8 @@ MONGO_DB_URI = getenv("MONGO_DB_URI")
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 OWNER_ID = int(getenv("OWNER_ID"))
-UPDATE = getenv("UPDATE", "M8N_OFFICIAL")
-SUPPORT = getenv("SUPPORT", "M8N_SUPPORT")
+UPDATE = getenv("UPDATE", "study_buddies_rai")
+SUPPORT = getenv("SUPPORT", "study_buddies_rai")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "999"))
 CMD_MUSIC = list(getenv("CMD_MUSIC", "/ !").split())
 BG_IMG = getenv("BG_IMG")
