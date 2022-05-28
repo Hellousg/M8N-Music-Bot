@@ -1,5 +1,5 @@
-# By : @Codexun
-# By : Pavan Magar
+# By : @study_buddies_rai
+# By : Krishna rai
 
 
 import time
